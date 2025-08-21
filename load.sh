@@ -4,7 +4,7 @@ echo "Bangladesh Cyber Squad"
 echo "Bae Max || loadTester || BCS"
 echo "=========================================="
 
-BINARY="./loadtester"   # তোমার binary নাম এখানে বসাও (যেমন ./loadtester-linux-arm64)
+BINARY="./loadTester"   # তোমার binary নাম এখানে বসাও (যেমন ./loadtester-linux-arm64)
 
 if [[ ! -f "$BINARY" ]]; then
     echo "❌ Binary not found: $BINARY"

@@ -34,6 +34,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/JOY-XII/loadTesterx.git
 cd loadTesterx
+go build loadTester.go
 ```
 
 Make the script executable:
